@@ -28,7 +28,5 @@ on [YouTube](https://youtu.be/4ASTeja1UXI)
 ## Authors
 * **IlyaJob05** - *Initial work* - [IlyaJob05](https://github.com/ilyajob05)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
