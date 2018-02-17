@@ -1,6 +1,6 @@
 # Ball detector
 
-Sample easy ball detect and tracking.
+Sample easy ball detector and tracking.
 
 ## Getting Started
 
