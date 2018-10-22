@@ -1,5 +1,5 @@
 # Ball detector
-
+http://icvision.ru/2018/10/21/поиск-шарика-на-изображении-при-помощ/
 Sample easy ball detector and tracking.
 
 ## Getting Started
